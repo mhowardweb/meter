@@ -1,3 +1,3 @@
-# Quasar App
+# Meter Reading App
 
-> WIP
+An android App for monitoring gas and electric consumption
